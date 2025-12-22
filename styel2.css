@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-color: #222831;
+    font-family: system-ui, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}
+
+.icons {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.icons a {
+    color: #eeeeee;
+    font-size: 22px;
+    transition: 0.3s;
+}
+
+.icons a:hover {
+    color: #00adb5;
+}
+
+.whatsapp:hover {
+    color: #25d366;
+}
+h1{
+  color: brown;
+}
